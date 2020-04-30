@@ -1,0 +1,8 @@
+
+
+  SAMPLE unit test
+    ✓ should return home page
+
+
+  1 passing (38ms)
+

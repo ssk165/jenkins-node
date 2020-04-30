@@ -5,4 +5,6 @@ app.get("/", function (req, res) {
   res.send("This is jenkins demo");
 });
 
-app.listen(4000);
+const port = process.env.PORT || 4000;
+
+app.listen(port);
